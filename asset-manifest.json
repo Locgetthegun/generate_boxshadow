@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/generate_boxshadow/static/css/main.d3accdd1.css",
+    "main.js": "/generate_boxshadow/static/js/main.50cd0426.js",
+    "static/js/787.27d59b0f.chunk.js": "/generate_boxshadow/static/js/787.27d59b0f.chunk.js",
+    "index.html": "/generate_boxshadow/index.html",
+    "main.d3accdd1.css.map": "/generate_boxshadow/static/css/main.d3accdd1.css.map",
+    "main.50cd0426.js.map": "/generate_boxshadow/static/js/main.50cd0426.js.map",
+    "787.27d59b0f.chunk.js.map": "/generate_boxshadow/static/js/787.27d59b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3accdd1.css",
+    "static/js/main.50cd0426.js"
+  ]
+}
